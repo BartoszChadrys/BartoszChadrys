@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning **Swift**
 - ♟️ Chess player
 
+<h4>In my spare time I enjoy doing codewars assignments</h4>
+
+![Codewars](https://github.r2v.ch/codewars?user=Bartek112)
+
 # ⚡ Skills
 
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
@@ -11,4 +15,5 @@
 # 📫 Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartek-chadry%C5%9B-010655234/)
+
 
