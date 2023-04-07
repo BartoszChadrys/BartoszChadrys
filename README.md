@@ -6,7 +6,7 @@
 
 <h4>In my spare time I enjoy doing codewars assignments</h4>
 
-![Codewars](https://github.r2v.ch/codewars?user=Bartek112)
+![Codewars](https://www.codewars.com/users/Bartek112/badges/large)
 
 # ⚡ Skills
 
