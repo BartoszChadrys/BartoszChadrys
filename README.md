@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Hello, I'm Bartek</h1>
-<h3 align="center">A passionate iOS developer from Poland</h3>
+<h3 align="center">Junior iOS developer from Poland</h3>
 
 - 🌱 I’m currently learning **Swift**
 - ♟️ Chess player
