@@ -1,9 +1,6 @@
 <h1 align="center">👨‍💻 Hello, I'm Bartek</h1>
 <h3 align="center">Junior iOS developer from Poland</h3>
 
-- 🌱 I’m currently learning **Swift**
-- ♟️ Chess player
-
 <h4>In my spare time I enjoy doing codewars assignments</h4>
 
 ![Codewars](https://www.codewars.com/users/Bartek112/badges/large)
